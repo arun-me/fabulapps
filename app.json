@@ -1,0 +1,12 @@
+{
+  "name": "Fabulapps",
+  "displayName": "Fabulapps",
+  "expo": {
+    "name": "Fabulapps",
+    "slug": "Fabulapps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
